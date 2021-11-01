@@ -1,2 +1,2 @@
-He modificado el primer archivo.
+He modificado el primer archivo.También yo lo he modificado para generar un conflicto.
 

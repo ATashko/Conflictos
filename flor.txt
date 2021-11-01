@@ -1,1 +1,3 @@
-Soy azul y amarilla
+Soy azul y amarilla. Soy un conflicto.
+
+

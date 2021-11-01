@@ -1,2 +1,1 @@
-He modificado el segundo archivo.
-
+He modificado el segundo archivo.También yo lo he modificado para generar un conclficto.También yo lo he modificado para generar un conclficto.También yo lo he modificado para generar un conclficto.
