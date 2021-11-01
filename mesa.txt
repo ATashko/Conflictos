@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 tengo cuatro patas, a veces mas.
 Uno a la familia.
 
+=======
+tengo cuatro patas, a veces mas.Tengo un conflicto.
+>>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354

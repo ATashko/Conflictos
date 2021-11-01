@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 He modificado el tercer archivo.
 He modificado el por segunda vez el tercer archivo de celula.
 
+=======
+He modificado el tercer archivo. También he modificado el archivo para generar un conflicto.
+>>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354
 

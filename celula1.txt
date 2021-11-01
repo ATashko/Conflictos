@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 He modificado el primer archivo.
 He modificado el por segunda vez el primer archivo de celula.
+=======
+He modificado el primer archivo.También yo lo he modificado para generar un conflicto.
+>>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354
 

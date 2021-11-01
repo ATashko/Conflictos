@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 He modificado el segundo archivo.
 He modificado el por segunda vez el segundo archivo de celula.
 
 
+=======
+He modificado el segundo archivo.También yo lo he modificado para generar un conclficto.También yo lo he modificado para generar un conclficto.También yo lo he modificado para generar un conclficto.
+>>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354

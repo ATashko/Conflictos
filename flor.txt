@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Soy azul y amarilla.	
 Doy comida a las abejas.
+=======
+Soy azul y amarilla. Soy un conflicto.
+
+>>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354
 
