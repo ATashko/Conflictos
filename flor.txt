@@ -7,6 +7,11 @@ Soy azul y amarilla. Soy un conflicto.
 >>>>>>> 3ba3ace24cc94a54d1078fa0ce61e9cc97ce1354
 
 Bello girasol.
+<<<<<<< HEAD
 Flor del conflicto.
+=======
+Hermosa orquidea.
+
+>>>>>>> bd2bec66b13a2f246e2617dd4045840ae7a80bd3
 
 
